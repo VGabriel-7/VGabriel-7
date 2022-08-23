@@ -11,20 +11,21 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGabriel-7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ##
+##
  
 <div align="center">
   <h3>Soft Skills</h3>
   <p align="center">Autoconhecimento, Empatia, Resiliência, Escuta Ativa, Assertividade, Dar e Receber Feedbacks, Raciocínio Lógico</p>
  </div>
   
-  ##
+##
+
 <div align="center">
   <h3>Tecnologias</h3>
   <div id='lojc' align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://testing-library.com/img/logo-large.png" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30"/>&nbsp;&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img src="https://github.com/MateusHoffman/MateusHoffman/blob/main/img/GitHub.svg" width="30" height="30" background-color="white"/></div>
  
-  ##
+##
   
 <div align="center">
   <h3>Conecte-se comigo</h3>
